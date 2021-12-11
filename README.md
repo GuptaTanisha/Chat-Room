@@ -8,5 +8,5 @@ Used DOM to insert messages on the screen.
 [Click here to visit](https://secret-temple-95147.herokuapp.com/)
 
 ## Set Up
-* ```code npm install``` 
-* ```code node server.js```
+* ```npm install``` 
+* ```node server.js```
